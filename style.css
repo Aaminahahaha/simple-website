@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1, h2{
+    font-family: monospace
+}
+h1{
+    font-size: 100px;
+    color: darkred;
+    font-weight: lighter;
+    padding: 60px 100px 60px 100px;
+}
+h2{
+    font-size: 40px;
+    color:rgb(182, 100, 144);
+    font-weight: 100;
+    padding-top: 50px;
+    padding-left: 100px
+}
